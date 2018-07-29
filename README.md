@@ -1,5 +1,3 @@
-# react  Job-App
-
 ## react 基础
 > npm run eject 弹出配置文件, 可自定义配置webpack( 注意,此操作不可逆 )
 此操作多处的文件 
